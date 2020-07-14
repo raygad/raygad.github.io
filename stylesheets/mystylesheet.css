@@ -1,0 +1,18 @@
+.parent {
+  padding: 1rem;
+}
+.grid-parent {
+  display: grid;
+  grid-template-columns: 1fr 1fr
+}
+.center-parent {
+  float: center;
+}
+.child {
+  padding: 0rem;
+}
+.float-left-child {
+  float: left;
+}
+.link-pdf{
+}
